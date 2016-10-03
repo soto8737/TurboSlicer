@@ -1,0 +1,162 @@
+-debug
+-target:library
+-nowarn:0169
+-out:Temp/Assembly-CSharp.dll
+-r:"C:/Program Files/Unity/Editor/Data/Managed/UnityEngine.dll"
+-r:"C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll"
+-r:"C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll"
+-r:"C:/Program Files/Unity/Editor/Data/Managed/UnityEditor.dll"
+-define:UNITY_5_3_OR_NEWER
+-define:UNITY_5_4_OR_NEWER
+-define:UNITY_5_4_1
+-define:UNITY_5_4
+-define:UNITY_5
+-define:ENABLE_NEW_BUGREPORTER
+-define:ENABLE_AUDIO
+-define:ENABLE_CACHING
+-define:ENABLE_CLOTH
+-define:ENABLE_DUCK_TYPING
+-define:ENABLE_EDITOR_RETINA
+-define:ENABLE_RETINA_GUISTYLES
+-define:ENABLE_FRAME_DEBUGGER
+-define:ENABLE_GENERICS
+-define:ENABLE_HOME_SCREEN
+-define:ENABLE_IMAGEEFFECTS
+-define:ENABLE_LIGHT_PROBES_LEGACY
+-define:ENABLE_MICROPHONE
+-define:ENABLE_MULTIPLE_DISPLAYS
+-define:ENABLE_PHYSICS
+-define:ENABLE_PLUGIN_INSPECTOR
+-define:ENABLE_SHADOWS
+-define:ENABLE_SPRITERENDERER_FLIPPING
+-define:ENABLE_SPRITES
+-define:ENABLE_SPRITE_POLYGON
+-define:ENABLE_TERRAIN
+-define:ENABLE_RAKNET
+-define:ENABLE_UNET
+-define:ENABLE_UNITYEVENTS
+-define:ENABLE_VR
+-define:ENABLE_WEBCAM
+-define:ENABLE_WWW
+-define:ENABLE_CLOUD_SERVICES
+-define:ENABLE_CLOUD_SERVICES_COLLAB
+-define:ENABLE_CLOUD_SERVICES_ADS
+-define:ENABLE_CLOUD_HUB
+-define:ENABLE_CLOUD_PROJECT_ID
+-define:ENABLE_CLOUD_SERVICES_CRASH_REPORTING
+-define:ENABLE_CLOUD_SERVICES_PURCHASING
+-define:ENABLE_CLOUD_SERVICES_ANALYTICS
+-define:ENABLE_CLOUD_SERVICES_UNET
+-define:ENABLE_CLOUD_SERVICES_BUILD
+-define:ENABLE_CLOUD_LICENSE
+-define:ENABLE_EDITOR_METRICS
+-define:ENABLE_EDITOR_METRICS_CACHING
+-define:INCLUDE_DYNAMIC_GI
+-define:INCLUDE_GI
+-define:INCLUDE_IL2CPP
+-define:INCLUDE_DIRECTX12
+-define:PLATFORM_SUPPORTS_MONO
+-define:RENDER_SOFTWARE_CURSOR
+-define:INCLUDE_PUBNUB
+-define:ENABLE_LOCALIZATION
+-define:ENABLE_ANDROID_ATLAS_ETC1_COMPRESSION
+-define:ENABLE_EDITOR_TESTS_RUNNER
+-define:UNITY_STANDALONE_WIN
+-define:UNITY_STANDALONE
+-define:ENABLE_SUBSTANCE
+-define:ENABLE_TEXTUREID_MAP
+-define:ENABLE_RUNTIME_GI
+-define:ENABLE_MOVIES
+-define:ENABLE_NETWORK
+-define:ENABLE_CRUNCH_TEXTURE_COMPRESSION
+-define:ENABLE_UNITYWEBREQUEST
+-define:ENABLE_EVENT_QUEUE
+-define:ENABLE_CLUSTERINPUT
+-define:ENABLE_WEBSOCKET_HOST
+-define:ENABLE_MONO
+-define:ENABLE_PROFILER
+-define:DEBUG
+-define:TRACE
+-define:UNITY_ASSERTIONS
+-define:UNITY_EDITOR
+-define:UNITY_EDITOR_64
+-define:UNITY_EDITOR_WIN
+-define:UNITY_TEAM_LICENSE
+-define:ENABLE_VSTU
+-define:UNITY_PRO_LICENSE
+"Assets/Noble Demos/Demo Common/TSDXButton.cs"
+"Assets/Noble Demos/Demo Common/TSDXGoToSceneOnClick.cs"
+"Assets/Noble Demos/Demo Common/TSDXHorizontalAnchor.cs"
+"Assets/Noble Demos/Demo Common/TSDXWobblyCamera.cs"
+"Assets/Noble Demos/Muffin Popper/TSD5BurstApartWhenSliced.cs"
+"Assets/Noble Demos/Muffin Popper/TSD5BurstOnTap.cs"
+"Assets/Noble Demos/Muffin Popper/TSD5FailSounder.cs"
+"Assets/Noble Demos/Muffin Popper/TSD5Fate.cs"
+"Assets/Noble Demos/Muffin Popper/TSD5ScoreAgent.cs"
+"Assets/Noble Demos/Muffin Popper/TSD5ScoreModel.cs"
+"Assets/Noble Demos/Muffin Popper/TSD5ScoreView.cs"
+"Assets/Noble Demos/Muffin Popper/TSD5Spawner.cs"
+"Assets/Noble Demos/Sword Demo Common/TSD3AttachableSlicerController.cs"
+"Assets/Noble Demos/Sword Demo Common/TSD3CameraSteer.cs"
+"Assets/Noble Demos/Sword Demo Common/TSD3SoundWhenSliced.cs"
+"Assets/Noble Demos/Sword Demo Common/TSD3SwordSwishController.cs"
+"Assets/Noble Demos/Sword Demo Common/TSD3SwordTransformController.cs"
+"Assets/Noble Demos/Sword Demo Common/TSD3SwordVelocityFilter.cs"
+"Assets/Noble Demos/Sword Demo LH/LHD3CameraPositionController.cs"
+"Assets/Noble Demos/Sword Demo LH/LHD3DemoSliceHandler.cs"
+"Assets/Noble Demos/Sword Demo LH/LHD3MarkOfCain.cs"
+"Assets/Noble Demos/Sword Demo LH/LHD3RestartButton.cs"
+"Assets/Noble Demos/Sword Demo LH/LHD3Spawner.cs"
+"Assets/Noble Demos/Sword Demo LH/LHD3TimeForSlicingFilter.cs"
+"Assets/Noble Demos/Sword Demo TS/Splatter On Slice/Components/SplatterOnSlice.cs"
+"Assets/Noble Demos/Sword Demo TS/Splatter On Slice/Guts/ParticleDestructor.cs"
+"Assets/Noble Demos/Sword Demo TS/TSD3BurstApartWhenSliced.cs"
+"Assets/Noble Demos/Sword Demo TS/TSD3FailSounder.cs"
+"Assets/Noble Demos/Sword Demo TS/TSD3Fate.cs"
+"Assets/Noble Demos/Sword Demo TS/TSD3ScoreAgent.cs"
+"Assets/Noble Demos/Sword Demo TS/TSD3ScoreModel.cs"
+"Assets/Noble Demos/Sword Demo TS/TSD3ScoreView.cs"
+"Assets/Noble Demos/Sword Demo TS/TSD3Spawner.cs"
+"Assets/Noble Demos/Touch Slicer/Slash Flash/TSD4SliceEffect.cs"
+"Assets/Noble Demos/Touch Slicer/TSD4BurstApartWhenSliced.cs"
+"Assets/Noble Demos/Touch Slicer/TSD4FailSounder.cs"
+"Assets/Noble Demos/Touch Slicer/TSD4Fate.cs"
+"Assets/Noble Demos/Touch Slicer/TSD4ScoreAgent.cs"
+"Assets/Noble Demos/Touch Slicer/TSD4ScoreModel.cs"
+"Assets/Noble Demos/Touch Slicer/TSD4ScoreView.cs"
+"Assets/Noble Demos/Touch Slicer/TSD4SoundWhenSliced.cs"
+"Assets/Noble Demos/Touch Slicer/TSD4Spawner.cs"
+"Assets/Noble Demos/Touch Slicer/TSD4Target.cs"
+"Assets/Noble Demos/Touch Slicer/TSD4TargetSlicer.cs"
+"Assets/Noble Demos/Touch Slicer/Trails Kit/SlashKit.cs"
+"Assets/Noble Muffins/Limb Hacker/Components/Hackable.cs"
+"Assets/Noble Muffins/Limb Hacker/Components/ToRagdollOrNot.cs"
+"Assets/Noble Muffins/Limb Hacker/Guts/ChildOfHackable.cs"
+"Assets/Noble Muffins/Limb Hacker/Guts/DataStructures.cs"
+"Assets/Noble Muffins/Limb Hacker/Guts/HierarchyHandling.cs"
+"Assets/Noble Muffins/Limb Hacker/Guts/InterceptionBranch.cs"
+"Assets/Noble Muffins/Limb Hacker/Guts/LimbHacker.cs"
+"Assets/Noble Muffins/Limb Hacker/Guts/PlaneSlice.cs"
+"Assets/Noble Muffins/Limb Hacker/Guts/SliceableByPoint.cs"
+"Assets/Noble Muffins/Muffin Slice Common/Components/AbstractSliceHandler.cs"
+"Assets/Noble Muffins/Muffin Slice Common/Guts/Extensions.cs"
+"Assets/Noble Muffins/Muffin Slice Common/Guts/ISliceable.cs"
+"Assets/Noble Muffins/Muffin Slice Common/Guts/MuffinSliceCommon.cs"
+"Assets/Noble Muffins/Muffin Slice Common/Guts/Slicer.cs"
+"Assets/Noble Muffins/Muffin Slice Common/Guts/Triangulation.cs"
+"Assets/Noble Muffins/Muffin Slice Common/Guts/TurboList.cs"
+"Assets/Noble Muffins/Muffin Slice Common/Guts/VectorAccumulator.cs"
+"Assets/Noble Muffins/Turbo Slicer/Components/Sliceable.cs"
+"Assets/Noble Muffins/Turbo Slicer/Guts/HierarchyHandling.cs"
+"Assets/Noble Muffins/Turbo Slicer/Guts/InfillGeometryReceivers.cs"
+"Assets/Noble Muffins/Turbo Slicer/Guts/InterceptionBranch.cs"
+"Assets/Noble Muffins/Turbo Slicer/Guts/PublicScriptInterface.cs"
+"Assets/Noble Muffins/Turbo Slicer/Guts/SliceCore.cs"
+"Assets/Noble Muffins/Turbo Slicer/Guts/SliceSupport.cs"
+"Assets/Noble Muffins/Turbo Slicer/Guts/TSCallbackOnDestroy.cs"
+"Assets/Noble Muffins/Turbo Slicer/Guts/Tangents.cs"
+"Assets/Noble Muffins/Turbo Slicer/Guts/Trash/DeletionCallback.cs"
+"Assets/Noble Muffins/Turbo Slicer/Guts/Trash/TSMeshScrubber.cs"
+"Assets/Noble Muffins/Turbo Slicer/Guts/TurboSlice.cs"
+-r:"C:\Program Files\Unity\Editor\Data\Mono\lib\mono\unity\System.Runtime.Serialization.dll"
+-r:"C:\Program Files\Unity\Editor\Data\Mono\lib\mono\unity\System.Xml.Linq.dll"

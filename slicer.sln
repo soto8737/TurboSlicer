@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "slicer.CSharp", "slicer.CSharp.csproj", "{CF9A2F76-E695-EA03-9F4E-261B582FB4DD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "slicer.CSharp.Editor", "slicer.CSharp.Editor.csproj", "{32187CA6-A448-D363-F60E-959D4FCDCFC3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CF9A2F76-E695-EA03-9F4E-261B582FB4DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF9A2F76-E695-EA03-9F4E-261B582FB4DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF9A2F76-E695-EA03-9F4E-261B582FB4DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF9A2F76-E695-EA03-9F4E-261B582FB4DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{32187CA6-A448-D363-F60E-959D4FCDCFC3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32187CA6-A448-D363-F60E-959D4FCDCFC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32187CA6-A448-D363-F60E-959D4FCDCFC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32187CA6-A448-D363-F60E-959D4FCDCFC3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
